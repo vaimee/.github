@@ -102,14 +102,14 @@ We value consistency over everything else. If you are working on a project that 
 
 Of course not everyone's is perfect and we might bake into our solution some inconsistency. If you spot one, please open an issue and/or a PR to fix it.
 
-> [!NOTE]: TIP
+> [!TIP]
 > When creating a new project and you are not sure about the conventions and patterns to follow, please take a look to our previously made projects. If you can't find any project that is similar to what you are building, I am sure that you can find some inspiration on the open source projects hosted in Github. 
 
 ### Naming
 
 As developers we know how the naming of variables, functions, classes, and files is important. We also know how hard it is to find the right name. We don't have a silver bullet for this problem, but we can give you some guidelines to follow. First of all, please use English. If you are not a native English speaker, do your best to translate your thoughts using some of free online translators. Try to use evocative names and avoid abbreviations, you have plenty of space to write your code (unless you are working on highly constraint environment). If you are not sure about a name, your team is there to help you. 
 
-> [!WARNING]: TIP
+> [!WARNING]
 > Per [our consistency rule](#consistency-consistency-consistency-consistency), please follow the naming conventions already used in the project. 
 
 ### DRY - Don't Repeat Yourself
